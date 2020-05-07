@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.hover :hover{
+    box-shadow: 0 0 20px 0 rgb(197, 243, 150);
+    transform: translatey(-10px);
+}
+ul{
+    /* list-style-type: none; */
+}
+ul li{
+    display: inline-block;
+    
+}
